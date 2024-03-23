@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/DevvIlya/ahj-homeworks-DnD/actions/workflows/web.yml/badge.svg)
 
-https://unker.github.io/ahj-homeworks-DnD/
+https://DevvIlya.github.io/ahj-homeworks-DnD/
 
 Правила сдачи задания:
 
